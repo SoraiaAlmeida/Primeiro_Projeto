@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Primeiro_Projeto</string>
+    <string name="VDelta">Valor Delta</string>
+    <string name="VX1">Valor X1</string>
+    <string name="VX2">Valor X2</string>
+    <string name="calcular">Calcular</string>
+    <string name="tvRes">tvRes</string>
+    <string name="tvMErro">A equação não possui raízes reais.</string>
+
+</resources>
